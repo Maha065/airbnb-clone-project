@@ -8,7 +8,7 @@ The goal is to replicate core features of Airbnb, such as browsing listings, vie
 - Allow users to create, view, and book property listings.
 - Practice modern web development workflows and deployment.
 
-## Tech Stack
+## Technology Stack
 - **Frontend:** React, Tailwind CSS, Axios  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB (Mongoose ORM)  
